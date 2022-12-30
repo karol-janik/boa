@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"enum":[["BoaProvider","ICU4X data provider used in boa."]],"mod":[["icu",""],["intrinsics","Data structures that contain intrinsic objects and constructors."]],"struct":[["Context","ECMAScript context. It is the primary way to interact with the runtime."],["ContextBuilder","Builder for the [`Context`] type."]]};

@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"struct":[["Conditional","The `conditional` (ternary) operation is the only ECMAScript operation that takes three operands."]]};

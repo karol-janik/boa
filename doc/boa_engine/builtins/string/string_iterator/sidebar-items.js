@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"struct":[["StringIterator","The `StringIterator` object represents an iteration over a string. It implements the iterator protocol."]]};

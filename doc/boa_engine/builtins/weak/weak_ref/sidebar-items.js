@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"struct":[["WeakRef","Boa’s implementation of ECMAScript’s `WeakRef` builtin object."]]};

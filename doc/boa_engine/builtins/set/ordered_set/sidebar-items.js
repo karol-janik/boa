@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"struct":[["OrderedSet","A type wrapping `indexmap::IndexSet`"]]};
